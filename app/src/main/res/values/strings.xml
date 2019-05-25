@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Taller 5</string>
+    <string name="btn_fragment">Ir al Formulario</string>
+    <string name="form">Agregar Persona</string>
+    <string name="hintNombre">Digite el nombre</string>
+    <string name="hintApellido">Digite el apellido</string>
+    <string name="hintCorreo">Digite el correo</string>
+    <string name="hintNumero">Digite el numero</string>
+    <string name="btnSubmit">Enviar</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Correo">Correo</string>
+    <string name="Numero">Numero</string>
+    <string name="Info">Informacion del Usuario</string>
+    <string name="btn_newPersonasRandom">Crear Personas Random</string>
+    <string name="btn_newPersonasForm">Crear Personas C/Form</string>
+    <string name="persona_archived">Persona Agregada</string>
+    <string name="lbl_lista">Listado de Personas</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_form">FormActivity</string>
+</resources>
